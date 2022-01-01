@@ -10,6 +10,7 @@ This week's challenge is to update an existing budget tracker application to all
 * [Usage](#usage)
 * [Website Links](#websiteLinks)
 * [Screengrab](#screengrab)
+* [Languages] (#languages)
 * [License](#license)
 * [Questions](questions)
 
@@ -30,14 +31,27 @@ THEN the deposits or expenses added while they were offline are added to their t
 ```
 
 ### Installation
-No installation required - click on link below to deploy application.
+- clone the repository
+- ```npm install``` to install the required npm packages
+- ```npm start``` to start the server
+- open browser and go to ```http://localhost:3001```
 
 ### Usage
 The user will be able to input expenses to their budget with or without a connection.
 
 ### Website Links
 
-### Scrrengrabs
+### Screengrabs
+
+### Languages
+- Node
+- Express
+- JavaScript
+- CSS
+- HTML
+- MongoDB
+- Mongoose
+- Progressive Web Application (PWA)
 
 ### License
 MIT
