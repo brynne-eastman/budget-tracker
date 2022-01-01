@@ -10,7 +10,7 @@ This week's challenge is to update an existing budget tracker application to all
 * [Usage](#usage)
 * [Website Links](#websiteLinks)
 * [Screengrab](#screengrab)
-* [Languages] (#languages)
+* [Languages](#languages)
 * [License](#license)
 * [Questions](questions)
 
