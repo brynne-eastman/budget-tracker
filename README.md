@@ -40,8 +40,10 @@ THEN the deposits or expenses added while they were offline are added to their t
 The user will be able to input expenses to their budget with or without a connection.
 
 ### Website Links
+[Live Heroku Application](https://stark-reaches-28667.herokuapp.com/)
 
 ### Screengrabs
+![screenshot](./public/images/budget-tracker_screengrab.png)
 
 ### Languages
 - Node
